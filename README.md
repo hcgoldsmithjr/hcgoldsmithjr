@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Howard Goldsmith
 
-## 🛠️ Aspiring AWS Cloud Engineer | Linux System Administrator | Automation-Driven Technologist
+## 🛠️AWS Cloud Engineer | Linux System Administrator | Automation-Driven Technologist
 
-With over 5 years of experience managing Linux-based infrastructure, scripting automation solutions, and driving system migrations, I’m currently transitioning into **AWS Cloud Engineering** with a focus on scalable infrastructure, automation, and cloud-native operations.
+With over 10 years of experience managing Linux-based infrastructure, scripting automation solutions, and driving system migrations, I’m currently transitioning into **AWS Cloud Engineering** with a focus on scalable infrastructure, automation, and cloud-native operations.
 
 ---
 
@@ -22,7 +22,6 @@ Automating routine tasks using Python scripts and integrating with AWS services 
 
 ## 🎯 Current Learning Goals
 
-- 🧠 **AWS Certified Cloud Practitioner** (in progress)
 - 🔧 EC2, IAM, VPC, CloudWatch
 - 📜 GitHub Actions + CI/CD Basics
 - 🛡️ Cloud Security & Identity Access Control
